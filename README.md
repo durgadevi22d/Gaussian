@@ -18,10 +18,11 @@ For that we want to make a range accorting to our program output.
 Then print the program with correct form then the output will display.
 
 ## Program:
-```
+
 ### Program to solve a matrix using Gaussian elimination with partial pivoting.
 ### Developed by: DURGADEVI P
 ### RegisterNumber: 212223100006
+```
 import numpy as np
 import sys
 n=int(input())
